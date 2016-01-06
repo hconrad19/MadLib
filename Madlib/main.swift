@@ -15,8 +15,6 @@ func input() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
-print("Welcome to Mad Libs!")
-print("Would you like to play? (Y or N) ")
 
 var playCheck = true
 while playCheck {
