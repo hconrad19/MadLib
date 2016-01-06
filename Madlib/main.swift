@@ -20,3 +20,18 @@ func input() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
+
+
+print("when a user visits our site for the first time, he or she should immediately see that we are ")
+
+print("adjetive")
+var n = input()
+
+print(" and ")
+
+print("adjective")
+var n1 = input()
+
+print(" When that user digs deeper into the site, he or she will also notice that we are ")
+print("adjetive")
+var n2 = input()
