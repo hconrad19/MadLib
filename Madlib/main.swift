@@ -20,13 +20,24 @@ func input() -> String {
 print("when a user visits our site for the first time, he or she should immediately see that we are ")
 
 print("adjetive")
-var n = input()
+let n = input()
 
 print(" and ")
 
 print("adjective")
-var n1 = input()
+let n1 = input()
 
-print(" When that user digs deeper into the site, he or she will also notice that we are ")
-print("adjetive")
-var n2 = input()
+print(" When that user digs deeper into the site, he or she will also notice that we are a ")
+print("noun")
+let n2 = input()
+print(",")
+print("adjective")
+let n3 = input()
+
+
+print(", and ")
+print("adjective")
+let n4 = input()
+print("organization.")
+
+print("when a user visits our site for the first time, he or she should immediately see that we are  \(n) and \(n1)When that user digs deeper into the site, he or she will also notice that we are a \(n2), and \(n3) organization.)")
