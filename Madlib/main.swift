@@ -77,21 +77,30 @@ func website(){
 }
 
 
-func OneDay(){
-    print("One Day ")
-    print("Proper Noun")
-    let b = input()
-    print(" was ")
-    print("Verb-ING")
-    let b1 = input()
-    print(" to the ")
-    print("noun")
-    let b2 = input()
-    print(". On the way, ")
-    print("pronoun")
-    let b3 = input()
-
-
+    func OneDay(){
+        print("One Day ")
+        print("Proper Noun")
+        let b = input()
+        print(" was ")
+        print("Verb-ING")
+        let b1 = input()
+        print(" to the ")
+        print("noun")
+        let b2 = input()
+        print(". On the way, ")
+        print("pronoun")
+        let b3 = input()
+        print(" Saw a ")
+        print("noun")
+        let b4 = input()
+        print(" This was a surprise so ")
+        print("pronoun")
+        let b5 = input()
+        print("verb")
+        let b6 = input()
+        print(" Quickly")
+        
+}
 
 
 
