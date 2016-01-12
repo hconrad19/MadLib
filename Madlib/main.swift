@@ -15,7 +15,7 @@ func input() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
-
+ 
 var playCheck = true
 while playCheck {
     var play = input()
