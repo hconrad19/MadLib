@@ -46,3 +46,16 @@ func website(){
 
 
     print("when a user visits our site for the first time, he or she should immediately see that we are  \(n) and \(n1). When that user digs deeper into the site, he or she will also notice \(n2) and \(n3). When a user shares our content with peers and colleagues, he or she will tell them that we are a  \(n4), \(n5), and \(n6) organization.)")
+ 
+var playCheck = true
+while playCheck {
+    var play = input()
+    
+    if play == "Y" || play == "Y" {
+        print("Have fun!")
+        
+        playCheck = false
+    }else {
+        print("Really?")
+    }
+}
