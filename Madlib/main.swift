@@ -16,8 +16,7 @@ func input() -> String {
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
 
-func website(){
-}
+
 
 
     print("when a user visits our site for the first time, he or she should immediately see that we are ")
