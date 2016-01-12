@@ -15,12 +15,12 @@ func input() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
- 
 var playCheck = true
 while playCheck {
     var play = input()
     
-    if play == "Y" || play == "Y" {
+    if play == "
+Y" || play == "Y" {
         print("Have fun!")
         
         playCheck = false
