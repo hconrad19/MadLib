@@ -77,7 +77,37 @@ func website(){
 }
 
 
-var a = 2
+func pizza(){
+    print("Pizza was invented by a")
+    print("adjective")
+    print("nationality")
+    
+    print("chef named")
+    print("person.")
+    
+    print("Tomake a pizza, you need to take a lumo of")
+    print("noun, ")
+    print("and make a thin round")
+    print("adjective")
+    print("noun")
+    
+    print("Then you cover it with")
+    print("adjective")
+    print("sause,")
+    print("adjective")
+    print("cheese, and fresh chopped")
+    print("plural noun")
+    
+    print("Next you have to bake it in a very hot")
+    print("noun")
+    
+    print("When its done, cut it into")
+    print("number")
+    print("shapes")
+    
+    print("Some kids like")
+    print("food")
+}
 
 
 
