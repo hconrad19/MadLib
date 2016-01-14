@@ -30,7 +30,7 @@ while playCheck {
 }
 
 
-//Bryces madlib
+//Bryces madlib #1
 func website(){
 
 }
@@ -75,7 +75,7 @@ func website(){
     
             print("when a user visits our site for the first time, he or she should immediately see that we are  \(n) and \(n1). When that user digs deeper into the site, he or she will also notice \(n2) and \(n3). When a user shares our content with peers and colleagues, he or she will tell them that we are a  \(n4), \(n5), and \(n6) organization.)")
 
-//Bryces madlib
+//Bryces madlib #2
         func OneDay(){
 }
         print("One Day ")
@@ -117,7 +117,7 @@ func website(){
         print("One day \(b) was \(b1) to the \(b2). On the way, \(b3) saw a \(b4)  This was a surprice so \(b5) \(b6) Quickly.")
 
 
-//Bryce madlib
+//Bryce madlib #3
 
 print("mothers sit around ")
 print("[verb-ing]")
